@@ -1,0 +1,317 @@
+{"message":"listening on port 4000","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"level":"error","message":"mongoose is not defined mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at D:\\code\\Node\\vidly-api\\routes\\genres.js:15:5\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\code\\Node\\vidly-api\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"level":"error","message":"mongoose is not defined mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at D:\\code\\Node\\vidly-api\\routes\\genres.js:15:5\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\code\\Node\\vidly-api\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"level":"error","message":"mongoose is not defined mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at D:\\code\\Node\\vidly-api\\routes\\genres.js:15:5\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\code\\Node\\vidly-api\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"level":"error","message":"mongoose is not defined mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at D:\\code\\Node\\vidly-api\\routes\\genres.js:15:5\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\code\\Node\\vidly-api\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"level":"error","message":"mongoose is not defined mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at D:\\code\\Node\\vidly-api\\routes\\genres.js:15:5\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\code\\Node\\vidly-api\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"level":"error","message":"mongoose is not defined mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at D:\\code\\Node\\vidly-api\\routes\\genres.js:15:5\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\code\\Node\\vidly-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\code\\Node\\vidly-api\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\code\\Node\\vidly-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"level":"error","message":"Right-hand side of 'instanceof' is not callable Right-hand side of 'instanceof' is not callable","stack":"TypeError: Right-hand side of 'instanceof' is not callable\n    at new ReadableState (D:\\code\\Node\\vidly-api\\node_modules\\readable-stream\\lib\\_stream_readable.js:111:25)\n    at BufferList.Readable (D:\\code\\Node\\vidly-api\\node_modules\\readable-stream\\lib\\_stream_readable.js:183:25)\n    at BufferList.Duplex (D:\\code\\Node\\vidly-api\\node_modules\\readable-stream\\lib\\_stream_duplex.js:67:12)\n    at new BufferList (D:\\code\\Node\\vidly-api\\node_modules\\bl\\bl.js:33:16)\n    at new MessageStream (D:\\code\\Node\\vidly-api\\node_modules\\winston-mongodb\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:35:21)\n    at new Connection (D:\\code\\Node\\vidly-api\\node_modules\\winston-mongodb\\node_modules\\mongodb\\lib\\cmap\\connection.js:54:28)\n    at D:\\code\\Node\\vidly-api\\node_modules\\winston-mongodb\\node_modules\\mongodb\\lib\\core\\connection\\connect.js:36:29\n    at callback (D:\\code\\Node\\vidly-api\\node_modules\\winston-mongodb\\node_modules\\mongodb\\lib\\core\\connection\\connect.js:280:5)\n    at Socket.connectHandler (D:\\code\\Node\\vidly-api\\node_modules\\winston-mongodb\\node_modules\\mongodb\\lib\\core\\connection\\connect.js:325:5)\n    at Object.onceWrapper (events.js:421:28)\n    at Socket.emit (events.js:315:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1127:10)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4380:21)\n    at model.Query.Object.<anonymous>.Query.then (D:\\code\\Node\\vidly-api\\node_modules\\mongoose\\lib\\query.js:4472:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_test...","level":"info"}
