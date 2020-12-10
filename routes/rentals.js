@@ -67,37 +67,4 @@ router.delete('/:id', async (req, res) => {
     res.send(rental);
 });
 
-// router.put('/:id', async (req, res) => {
-
-//     const { error } = schema.validate(req.body);
-//     if (error) return res.status(400).send(error.details[0].message);
-
-//     const customer = await Customer.findById(req.body.customerId);
-//     if (!customer) return res.status(400).send('Invalid Customer');
-
-//     const movie = await Movie.findById(req.body.movieId);
-//     if (!movie) return res.status(400).send('Invalid Movie');
-
-//     const rental = await Rental.findByIdAndUpdate(req.params.id, {
-//         customer: {
-//             _id: customer._id,
-//             name: customer.name,
-//             phone: customer.phone
-//         },
-//         movie: {
-//             _id: movie._id,
-//             title: movie.title,
-//             dailyRentalRate: movie.dailyRentalRate
-//         },
-//     }, { new: true });
-
-//     await Movie.findByIdAndUpdate(movie._id, {
-//         numberInStock: movie.numberInStock - 1
-//     }, { new: true });
-
-//     if (!rental) return res.status(404).send("Rental with the ID given is not found");
-
-//     res.send(rental);
-// });
-
 module.exports = router;

@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose --detectOpenHandles --testEnvironment=node --coverage"
+    "test": "jest --watchAll --verbose --detectOpenHandles --testEnvironment=node --coverage",
+    "start": "nodemon index.js"
   },
   "license": "MIT",
   "dependencies": {
@@ -14,8 +15,10 @@
     "fawn": "^2.1.5",
     "joi": "^17.2.1",
     "joi-objectid": "^3.0.1",
+    "joi-oid": "^1.1.2",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.20",
+    "moment": "^2.29.1",
     "mongoose": "^5.10.9",
     "winston": "^3.3.3",
     "winston-mongodb": "^5.0.5"
