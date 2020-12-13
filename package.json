@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll --verbose --detectOpenHandles --testEnvironment=node --coverage",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "12.18.4"
