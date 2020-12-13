@@ -51,9 +51,9 @@ describe('/api/returns', () => {
         await movie.save();
     })
     afterEach(async () => {
-        await server.close();
         await Rental.deleteMany({});
         await Movie.deleteMany({});
+        await server.close();
     })
     it('should return 401 if client is not logged in', async () => {
         token = '';
