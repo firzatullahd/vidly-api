@@ -1319,3 +1319,5 @@
 {"message":"Connected to mongodb://localhost/vidly...","level":"info"}
 {"message":"listening on port 4000","level":"info"}
 {"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"listening on port 4000","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
